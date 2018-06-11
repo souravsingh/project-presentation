@@ -17,4 +17,13 @@ from CMS and Bioinformatics Centre, SPPU.
 
 #### Why pick this problem?
 
-- 
+- Anti-microbial peptides are easier to synthesize in a lab environment.
+- Do not require specialized equipment for storage, since they handle well at room temperature.
+- Are effective against most anti-microbials like E.Coli.
+- Research has shown that they are also effective against diseases like [HIV-1](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0045208) and [Malaria](https://www.sciencedirect.com/science/article/pii/S0014579399009643)
+- Having a webserver or an application which can predict an antimicrobial peptide and its activity type to a
+reasonable level of accuracy is the main aim for this problem.
+
+---
+
+#### 
