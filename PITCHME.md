@@ -18,7 +18,7 @@ in collaboration with CMS Department and Bioinformatics Centre, SPPU.
 
 - Make use of anti-microbial peptides!
 - Anti-microbial peptides are special class of peptides synthesized from various organisms like bees, frogs etc 
-and are are potent drug candidates against microbial organisms such as bacteria, fungi, parasites, and viruses.
+and are potent drug candidates against microbial organisms such as bacteria, fungi, parasites, and viruses.
 - Anti-microbial peptides are easier to synthesize in a lab environment and do not require specialized equipment for storage.
 - Are effective against most anti-microbials like E.Coli and diseases like [HIV-1](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0045208) and [Malaria](https://www.sciencedirect.com/science/article/pii/S0014579399009643)
 
@@ -28,7 +28,7 @@ and are are potent drug candidates against microbial organisms such as bacteria,
 
 - Extract data required for classification from online webservers and databases.
 - Study various Machine Learning algorithms and the effect on the dataset.
-- Develop a web-application and/or open-source software.
+- Develop a web-application for the same.
 - Solve the problem of multilabel classification of AMPs since a peptide can act against multiple types of microbes.
 
 ---
@@ -60,7 +60,7 @@ and are are potent drug candidates against microbial organisms such as bacteria,
 
 #### Choosing an appropriate ML model
 
-- For choosing an appropriate ML model, the baseline model was created and evaluation for the model was done in a five-fold cross-validation using micro-averaged F1-score and AUC-ROC scores.
+- For choosing an appropriate ML model, baseline model was created and evaluation was done in a five-fold cross-validation using micro-averaged F1-score and AUC-ROC scores.
 - Through iterative development, [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) working in tandem with Binary Relevance for multi-label classification was found to work well and had an average F1-score of 0.88 and an AUC-ROC score of 0.843 over five-fold cross-validation.
 - The final ML algorithm was trained on a subset of the dataset and the small subset of the dataset was used for testing and verifying the behavior of the dataset.    
 
