@@ -46,7 +46,10 @@ and are potent drug candidates against microbial organisms such as bacteria, fun
 
 - We extract data from two sources, [CAMP](http://www.camp.bicnirrh.res.in/) and [APD3](http://aps.unmc.edu/AP/main.php).
 - After cleaning and eliminating redundant values, we were able to extract upto 3284 peptide sequences from the webservers.
-- The following shows the distribution of the peptides-
+- The next slide shows the distribution of the peptides for various labels.
+
+---
+
 ![IMAGE](assets/graph.png)
 
 ---
